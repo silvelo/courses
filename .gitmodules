@@ -1,0 +1,6 @@
+[submodule "docker-course"]
+	path = docker-course
+	url = git@github.com:silvelo/docker-course.git
+[submodule "git-course"]
+	path = git-course
+	url = git@github.com:silvelo/git-course.git
