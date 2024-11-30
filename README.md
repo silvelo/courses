@@ -1,4 +1,4 @@
-# Repositorio de Cursos Impartidos
+# Repositorio
 
 Este repositorio contiene los materiales de los cursos que he impartido sobre diferentes tecnologías. Actualmente, se incluyen los siguientes cursos:
 
